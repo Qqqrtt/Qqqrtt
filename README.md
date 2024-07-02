@@ -1,7 +1,5 @@
-## Hi there 👋
 
 ### Hi there 👋, Anup
-#### I am a student
 I am Anup from Nepal. 
 
 Skills: PYTHON / JS / HTML / CSS/LINUX
